@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:04,000
+Maya: The weather is changing faster than we expected.
+
+2
+00:00:04,500 --> 00:00:07,500
+Ravi: We should turn the boat toward the harbor.
+
+3
+00:00:08,000 --> 00:00:11,000
+Maya: Wait. The lighthouse signal is telling us there is another route.
+
+4
+00:00:11,500 --> 00:00:15,000
+Ravi: Then follow the signal, but keep the engine ready.
+
+5
+00:00:16,000 --> 00:00:19,000
+Maya: Agreed. We will reach the harbor before the storm arrives.

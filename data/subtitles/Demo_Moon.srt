@@ -1,0 +1,19 @@
+1
+00:00:02,000 --> 00:00:05,000
+Captain: The moon station is losing power.
+
+2
+00:00:05,500 --> 00:00:08,500
+Engineer: The backup reactor can hold for ten minutes.
+
+3
+00:00:09,000 --> 00:00:12,000
+Captain: Then we have ten minutes to find the fault.
+
+4
+00:00:12,500 --> 00:00:15,500
+Engineer: I will check the control room while you inspect the reactor.
+
+5
+00:00:18,000 --> 00:00:21,000
+Captain: If we cannot restore power, the crew will have to evacuate.
