@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import os
 import re
+import sys
 from pathlib import Path
 from typing import Any
 
@@ -241,7 +242,7 @@ Movie Intelligence & Follow-up Assistant
         env = dict(os.environ)
 
         server = StdioServerParameters(
-            command="python",
+            command=sys.executable,
             args=[str(server_file)],
             env=env,
         )
